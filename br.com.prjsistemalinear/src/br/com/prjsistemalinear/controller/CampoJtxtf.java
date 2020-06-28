@@ -7,6 +7,10 @@ import javax.swing.BorderFactory;
 import javax.swing.JTextField;
 
 public class CampoJtxtf extends JTextField {
+	/*
+	 * Esta classe foi obtida de um exemplo 
+	 * da internet
+	 * */
 	// atributos
 	private int numeroMaximoCaracteres = -1;
 	private String eventoKeyReleased ="";
