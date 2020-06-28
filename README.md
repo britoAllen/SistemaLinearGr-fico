@@ -1,2 +1,2 @@
 # SistemaLinearGrafico
-Programa gráfico que permite criação de matrizes lineares e algumas operações.
+Programa com interface gráfica (GUI) que permite criação de matrizes lineares e realiza algumas operações.
